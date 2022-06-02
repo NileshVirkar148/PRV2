@@ -9,7 +9,7 @@ public class DemoSubproject {
 	
 	private static DemoSubproject foo = null;
 	
-	
+	 
 	//multiple simultaneous callers may see partially initialized objects
 
  public static DemoSubproject getFoo() {   
