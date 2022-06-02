@@ -16,7 +16,7 @@ public class DemoSubproject {
 	    System.out.println(""); 
 	    System.out.println("");
 	    System.out.println("");
-	    System.out.println("");
+	    System.out.println(""); 
 
      if (foo==null) {
          foo = new DemoSubproject();
