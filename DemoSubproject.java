@@ -19,7 +19,7 @@ public class DemoSubproject {
 	    System.out.println(""); 
 
      if (foo==null) {
-         foo = new DemoSubproject();
+         foo = new DemoSubproject(); 
      }
     return foo; 
  }
