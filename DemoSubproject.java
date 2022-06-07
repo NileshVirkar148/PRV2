@@ -28,6 +28,7 @@ public class DemoSubproject {
      if (foo==null) {
          foo = new DemoSubproject();
 	     System.out.println("");
+	     System.out.println("");
      }
     return foo;
  }
