@@ -27,6 +27,7 @@ public class DemoSubproject {
  public static DemoSubproject getFoo2() {
      if (foo==null) {
          foo = new DemoSubproject();
+	 System.out.println(""); 
      }
     return foo;
  }
